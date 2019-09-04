@@ -1,2 +1,1 @@
-# basic-frameworks
-各种基础架构
+# next-antd-ts架构

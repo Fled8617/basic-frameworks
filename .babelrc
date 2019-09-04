@@ -1,0 +1,30 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": true
+      },
+      "ant"
+    ],
+    [
+      "import",
+      {
+        "libraryName": "antd-mobile",
+        "style": true
+      },
+      "am"
+    ],
+    [
+      "import",
+      {
+        "libraryName": "lodash",
+        "libraryDirectory": "",
+        "camel2DashComponentName": false
+      },
+      "lo"
+    ]
+  ]
+}
