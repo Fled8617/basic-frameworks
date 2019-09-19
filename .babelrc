@@ -25,6 +25,15 @@
         "camel2DashComponentName": false
       },
       "lo"
+    ],
+    [
+      "module-resolver",
+      {
+        "root": ["."],
+        "alias": {
+          "@": "."
+        }
+      }
     ]
   ]
 }
